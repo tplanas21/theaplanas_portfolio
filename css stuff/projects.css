@@ -63,3 +63,7 @@ body{
     background-color: rgb(239, 171, 199);
     color:white;
 }
+.project .dvd-images{
+    display: flex;
+    justify-content:space-around;
+}
